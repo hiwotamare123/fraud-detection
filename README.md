@@ -1,4 +1,4 @@
-Financial Transaction Intelligence: Anomaly Detection System
+Financial Transaction Intelligence: Anomaly/Fraud Detection 
 
 
 Kujenga Final Assignment
